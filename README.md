@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Roberto+Bravo;I'm+a+Software+Engineer+Student)](https://git.io/typing-svg)
 # 💫 About Me:
 
-I am a versatile Full Stack Engineer with more than 5 years of experience, successful at completing simultaneous development and update projects. Decisive leader and reliable team builder with a results-focused and motivated approach. Develops software solutions for a variety of client needs and experimentation platforms.
+I am currently in the last year of the Computer Engineering degree at the University of Valladolid, and I am looking for internships with the possibility of continuing in the company when they finish. Interested in Data Analysis and Artificial Intelligence.
 
-🔭 **I’m currently working on:**  <br>Improving the performance of serverless microservices architecture deployed on AWS Lambda.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>GraphQL and NextJS.<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB, Elastic Search, Messaging Systems, AWS, System Designs, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing video games.
+🔭 **I’m currently studying on:**  <br>Software Engineer at the University of Valladolid (Spain).<br><br>
+👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>
+🌱 **I’m currently learning:**  <br>Pandas and Matplotlib.<br><br>
+💬 **Ask me about**  <br>Java, Angular, Node.js, MySQL and any general software development questions.<br><br>
+⚡ **Fun fact:**  <br>I love outside sports, like running and football.
 
 
 ## 🌐 Socials:
