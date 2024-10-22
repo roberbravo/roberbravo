@@ -47,6 +47,6 @@ I am currently in the last year of the Computer Engineering degree at the Univer
 
 ------
 
-Credit: [VatanAgnihotri](https://github.com/VatanAgnihotri)[Thijs](https://github.com/tandpfun)
+Credit: [VatanAgnihotri](https://github.com/VatanAgnihotri)<br>[Thijs](https://github.com/tandpfun)
 
 Last Edited on: 22/10/2024
