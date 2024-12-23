@@ -50,6 +50,3 @@ I am currently in the last year of the Computer Engineering degree at the Univer
 Credit: [VatanAgnihotri](https://github.com/VatanAgnihotri) & [Thijs](https://github.com/tandpfun)
 
 Last Edited on: 22/10/2024
-
-### Planteamiento general
-$$DP[n][max+1]=\left\{\begin{matrix}i=0&\left\{\begin{matrix}j <P[i]&False\ |\ 0&\text{Caso no valido}\\j==P[i]&True\ |\ V[i]\ |\ 1&\text{Caso valido}\\j >P[i]&DP[i][j-P[i]]+\text{act}&\text{Caso por combinación}\end{matrix}\right.\\\\i \ne 0&\left\{\begin{matrix}j <P[i]&DP[i-1][j]&\text{Acumular anterior}\\j==P[i]&DP[i-1][j], \text{act}&\text{Anterior o actual, la mejor}\\j >P[i]&DP[i][j-P[i]], DP[i-1][j]&\text{Anterior o combinación}\end{matrix}\right.\end{matrix}\right.$$
